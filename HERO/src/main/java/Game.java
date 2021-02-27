@@ -9,8 +9,7 @@ import com.googlecode.lanterna.input.KeyStroke;
 
 public class Game {
     private Screen screen;
-    private Hero hero;
-
+    private Arena arena;
     public Game(){
         Terminal terminal;
         try {
@@ -19,34 +18,18 @@ public class Game {
             screen.setCursorPosition(null);   // we don't need a cursor
             screen.startScreen();             // screens must be started
             screen.doResizeIfNecessary();     // resize screen if necessary
-
-            hero = new Hero(10, 10);
+            arena=new Arena(20,20);
         } catch (IOException e) {
             e.printStackTrace();
         }
     }
     private void processKey(KeyStroke k){
-
-        switch(k.getKeyType()){
-            case ArrowUp:
-                hero.moveUp();
-                break;
-            case ArrowDown:
-                hero.moveDown();
-                break;
-            case ArrowRight:
-                hero.moveRight();
-                break;
-            case ArrowLeft:
-                hero.moveLeft();
-                break;
-            default:
-                throw new IllegalStateException("Unexpected value: " + k);
-        }
+        arena.processKey(k);
     }
+
     private void draw(){
         screen.clear();
-        hero.draw(screen);
+        arena.draw(screen.newTextGraphics());
         try {
             screen.refresh();
         } catch (IOException e) {
