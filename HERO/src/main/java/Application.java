@@ -8,7 +8,7 @@ import java.io.IOException;
 
 public class Application {
     public static void main(String[] args) {
-        Game newGame = new Game();
+        Game newGame = new Game(60, 30);
         newGame.run();
     }
 }
