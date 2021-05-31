@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="superMario.model.game.MapTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-05-31T00:46:29" hostname="miguel" time="0.085">
+  <properties/>
+  <testcase name="getFloorY()" classname="superMario.model.game.MapTest" time="0.044"/>
+  <testcase name="getFullMap()" classname="superMario.model.game.MapTest" time="0.018"/>
+  <testcase name="getMapSection()" classname="superMario.model.game.MapTest" time="0.01"/>
+  <testcase name="getMapInfo()" classname="superMario.model.game.MapTest" time="0.012"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="superMario.controller.menu.GameOverControllerTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-05-31T00:46:40" hostname="miguel" time="1.757">
+  <properties/>
+  <testcase name="rightTest()" classname="superMario.controller.menu.GameOverControllerTest" time="0.313"/>
+  <testcase name="TestEscape()" classname="superMario.controller.menu.GameOverControllerTest" time="0.264"/>
+  <testcase name="TestUpDown()" classname="superMario.controller.menu.GameOverControllerTest" time="0.3"/>
+  <testcase name="TestGet()" classname="superMario.controller.menu.GameOverControllerTest" time="0.289"/>
+  <testcase name="TestEnter()" classname="superMario.controller.menu.GameOverControllerTest" time="0.3"/>
+  <testcase name="leftTest()" classname="superMario.controller.menu.GameOverControllerTest" time="0.289"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

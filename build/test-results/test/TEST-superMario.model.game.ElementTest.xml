@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="superMario.model.game.ElementTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2021-05-31T00:46:30" hostname="miguel" time="0.014">
+  <properties/>
+  <testcase name="setElementAppearance()" classname="superMario.model.game.ElementTest" time="0.001"/>
+  <testcase name="setPosition()" classname="superMario.model.game.ElementTest" time="0.0"/>
+  <testcase name="getPosition()" classname="superMario.model.game.ElementTest" time="0.001"/>
+  <testcase name="getElementAppearance()" classname="superMario.model.game.ElementTest" time="0.0"/>
+  <testcase name="getFrontX()" classname="superMario.model.game.ElementTest" time="0.001"/>
+  <testcase name="getHeight()" classname="superMario.model.game.ElementTest" time="0.0"/>
+  <testcase name="getBottomY()" classname="superMario.model.game.ElementTest" time="0.001"/>
+  <testcase name="getHexColor()" classname="superMario.model.game.ElementTest" time="0.001"/>
+  <testcase name="relativePosition()" classname="superMario.model.game.ElementTest" time="0.001"/>
+  <testcase name="getWidth()" classname="superMario.model.game.ElementTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

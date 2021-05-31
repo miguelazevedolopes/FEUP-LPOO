@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="superMario.controller.menu.MenuControllerTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-05-31T00:46:38" hostname="miguel" time="1.745">
+  <properties/>
+  <testcase name="rightTest()" classname="superMario.controller.menu.MenuControllerTest" time="0.335"/>
+  <testcase name="TestUpDown()" classname="superMario.controller.menu.MenuControllerTest" time="0.261"/>
+  <testcase name="Testescape()" classname="superMario.controller.menu.MenuControllerTest" time="0.296"/>
+  <testcase name="TestGet()" classname="superMario.controller.menu.MenuControllerTest" time="0.258"/>
+  <testcase name="Testenter()" classname="superMario.controller.menu.MenuControllerTest" time="0.339"/>
+  <testcase name="leftTest()" classname="superMario.controller.menu.MenuControllerTest" time="0.25"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="superMario.model.game.MovingElementTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-05-31T00:46:30" hostname="miguel" time="0.004">
+  <properties/>
+  <testcase name="setMovingElement()" classname="superMario.model.game.MovingElementTest" time="0.001"/>
+  <testcase name="getOldPosition()" classname="superMario.model.game.MovingElementTest" time="0.001"/>
+  <testcase name="setSpeedX()" classname="superMario.model.game.MovingElementTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

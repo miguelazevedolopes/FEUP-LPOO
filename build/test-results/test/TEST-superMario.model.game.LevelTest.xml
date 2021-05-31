@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="superMario.model.game.LevelTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2021-05-31T00:46:29" hostname="miguel" time="0.878">
+  <properties/>
+  <testcase name="updateRelativePosition()" classname="superMario.model.game.LevelTest" time="0.529"/>
+  <testcase name="isMoveLegal()" classname="superMario.model.game.LevelTest" time="0.054"/>
+  <testcase name="isElementFloating()" classname="superMario.model.game.LevelTest" time="0.026"/>
+  <testcase name="getCurrentLevel()" classname="superMario.model.game.LevelTest" time="0.026"/>
+  <testcase name="isInScreen()" classname="superMario.model.game.LevelTest" time="0.032"/>
+  <testcase name="checkElementCollision()" classname="superMario.model.game.LevelTest" time="0.049"/>
+  <testcase name="die()" classname="superMario.model.game.LevelTest" time="0.043"/>
+  <testcase name="getNumLevel()" classname="superMario.model.game.LevelTest" time="0.031"/>
+  <testcase name="nextLevel()" classname="superMario.model.game.LevelTest" time="0.03"/>
+  <testcase name="getCharacter()" classname="superMario.model.game.LevelTest" time="0.03"/>
+  <testcase name="brickCollision()" classname="superMario.model.game.LevelTest" time="0.023"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

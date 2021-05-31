@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="superMario.model.menu.ButtonTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2021-05-31T00:46:29" hostname="miguel" time="0.072">
+  <properties/>
+  <testcase name="getTextColor()" classname="superMario.model.menu.ButtonTest" time="0.028"/>
+  <testcase name="isActive()" classname="superMario.model.menu.ButtonTest" time="0.003"/>
+  <testcase name="setAction()" classname="superMario.model.menu.ButtonTest" time="0.003"/>
+  <testcase name="setActive()" classname="superMario.model.menu.ButtonTest" time="0.003"/>
+  <testcase name="getButtonText()" classname="superMario.model.menu.ButtonTest" time="0.002"/>
+  <testcase name="getBackgroundColorDark()" classname="superMario.model.menu.ButtonTest" time="0.008"/>
+  <testcase name="getUpperLeft()" classname="superMario.model.menu.ButtonTest" time="0.001"/>
+  <testcase name="getAction()" classname="superMario.model.menu.ButtonTest" time="0.0"/>
+  <testcase name="getBackgroundColor()" classname="superMario.model.menu.ButtonTest" time="0.001"/>
+  <testcase name="getLowerRight()" classname="superMario.model.menu.ButtonTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

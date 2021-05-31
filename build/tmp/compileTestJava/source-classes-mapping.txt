@@ -1,0 +1,48 @@
+superMario/state/StateMenuTest.java
+ superMario.state.StateMenuTest
+superMario/model/game/MovingElementTest.java
+ superMario.model.game.MovingElementTest
+superMario/model/game/EnemyTest.java
+ superMario.model.game.EnemyTest
+superMario/state/StateTransitionTest.java
+ superMario.state.StateTransitionTest
+superMario/model/game/BrickTest.java
+ superMario.model.game.BrickTest
+superMario/controller/game/CharacterControllerTest.java
+ superMario.controller.game.CharacterControllerTest
+superMario/model/game/LevelTest.java
+ superMario.model.game.LevelTest
+superMario/model/game/ElementTest.java
+ superMario.model.game.ElementTest
+ superMario.model.game.ElementTest$Stub
+superMario/controller/menu/MenuControllerTest.java
+ superMario.controller.menu.MenuControllerTest
+superMario/model/menu/MenuTest.java
+ superMario.model.menu.MenuTest
+ superMario.model.menu.MenuTest$StubMenu
+superMario/model/game/MapTest.java
+ superMario.model.game.MapTest
+superMario/model/menu/ButtonTest.java
+ superMario.model.menu.ButtonTest
+ superMario.model.menu.ButtonTest$1
+superMario/state/StateGameOverTest.java
+ superMario.state.StateGameOverTest
+superMario/gui/LanternaGUITest.java
+ superMario.gui.LanternaGUITest
+superMario/model/game/CharacterTest.java
+ superMario.model.game.CharacterTest
+ superMario.model.game.CharacterTest$Stub
+superMario/controller/menu/GameOverControllerTest.java
+ superMario.controller.menu.GameOverControllerTest
+superMario/controller/ControllerTest.java
+ superMario.controller.ControllerTest
+superMario/model/PositionTest.java
+ superMario.model.PositionTest
+superMario/model/game/InfoTest.java
+ superMario.model.game.InfoTest
+superMario/controller/menu/TransitionControllerTest.java
+ superMario.controller.menu.TransitionControllerTest
+superMario/state/StatePlayTest.java
+ superMario.state.StatePlayTest
+superMario/model/game/ViewOnlyElementTest.java
+ superMario.model.game.ViewOnlyElementTest

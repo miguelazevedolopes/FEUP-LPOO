@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="superMario.controller.menu.TransitionControllerTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-05-31T00:46:36" hostname="miguel" time="1.685">
+  <properties/>
+  <testcase name="right_Test()" classname="superMario.controller.menu.TransitionControllerTest" time="0.222"/>
+  <testcase name="TestEscape()" classname="superMario.controller.menu.TransitionControllerTest" time="0.279"/>
+  <testcase name="TestUpDown()" classname="superMario.controller.menu.TransitionControllerTest" time="0.259"/>
+  <testcase name="TestGet()" classname="superMario.controller.menu.TransitionControllerTest" time="0.303"/>
+  <testcase name="TestEnter()" classname="superMario.controller.menu.TransitionControllerTest" time="0.318"/>
+  <testcase name="leftTest()" classname="superMario.controller.menu.TransitionControllerTest" time="0.301"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

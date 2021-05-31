@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="superMario.model.menu.MenuTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2021-05-31T00:46:29" hostname="miguel" time="0.027">
+  <properties/>
+  <testcase name="getNumberOptions()" classname="superMario.model.menu.MenuTest" time="0.004"/>
+  <testcase name="transitionTest()" classname="superMario.model.menu.MenuTest" time="0.005"/>
+  <testcase name="nextOption()" classname="superMario.model.menu.MenuTest" time="0.001"/>
+  <testcase name="getSelected()" classname="superMario.model.menu.MenuTest" time="0.0"/>
+  <testcase name="startMenuTest()" classname="superMario.model.menu.MenuTest" time="0.003"/>
+  <testcase name="getOptions()" classname="superMario.model.menu.MenuTest" time="0.001"/>
+  <testcase name="previousOption()" classname="superMario.model.menu.MenuTest" time="0.001"/>
+  <testcase name="addOption()" classname="superMario.model.menu.MenuTest" time="0.001"/>
+  <testcase name="gameOverTest()" classname="superMario.model.menu.MenuTest" time="0.004"/>
+  <testcase name="getSelectedButton()" classname="superMario.model.menu.MenuTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

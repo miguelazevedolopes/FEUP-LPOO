@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="superMario.model.game.InfoTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-05-31T00:46:27" hostname="miguel" time="2.487">
+  <properties/>
+  <testcase name="getNumberPoints" classname="superMario.model.game.InfoTest" time="1.2"/>
+  <testcase name="getNumberLives" classname="superMario.model.game.InfoTest" time="0.024"/>
+  <testcase name="getPointsTitle()" classname="superMario.model.game.InfoTest" time="0.01"/>
+  <testcase name="getLivesTitle()" classname="superMario.model.game.InfoTest" time="0.003"/>
+  <system-out><![CDATA[timestamp = 2021-05-31T01:46:28.963934220, InfoTest:getNumberPoints = 
+                              |-------------------jqwik-------------------
+tries = 1000                  | # of calls to property
+checks = 1000                 | # of not rejected calls
+generation = EXHAUSTIVE       | parameters are exhaustively generated
+after-failure = PREVIOUS_SEED | use the previous seed
+when-fixed-seed = ALLOW       | fixing the random seed is allowed
+edge-cases#mode = MIXIN       | edge cases are mixed in
+edge-cases#total = 0          | # of all combined edge cases
+edge-cases#tried = 0          | # of edge cases tried in current run
+seed = -8330906428675723814   | random seed to reproduce generated values
+
+
+timestamp = 2021-05-31T01:46:28.998867951, InfoTest:getNumberLives = 
+                              |-------------------jqwik-------------------
+tries = 10                    | # of calls to property
+checks = 10                   | # of not rejected calls
+generation = EXHAUSTIVE       | parameters are exhaustively generated
+after-failure = PREVIOUS_SEED | use the previous seed
+when-fixed-seed = ALLOW       | fixing the random seed is allowed
+edge-cases#mode = MIXIN       | edge cases are mixed in
+edge-cases#total = 0          | # of all combined edge cases
+edge-cases#tried = 0          | # of edge cases tried in current run
+seed = -5097232303306340714   | random seed to reproduce generated values
+
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

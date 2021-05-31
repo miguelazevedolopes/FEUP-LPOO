@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="superMario.model.PositionTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-05-31T00:46:30" hostname="miguel" time="0.013">
+  <properties/>
+  <testcase name="equalsDifferentObjects()" classname="superMario.model.PositionTest" time="0.001"/>
+  <testcase name="getDown()" classname="superMario.model.PositionTest" time="0.001"/>
+  <testcase name="getLeft()" classname="superMario.model.PositionTest" time="0.001"/>
+  <testcase name="getX()" classname="superMario.model.PositionTest" time="0.001"/>
+  <testcase name="getY()" classname="superMario.model.PositionTest" time="0.001"/>
+  <testcase name="getUp()" classname="superMario.model.PositionTest" time="0.001"/>
+  <testcase name="equalsNullObject()" classname="superMario.model.PositionTest" time="0.001"/>
+  <testcase name="equalsSameObject()" classname="superMario.model.PositionTest" time="0.0"/>
+  <testcase name="getRight()" classname="superMario.model.PositionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

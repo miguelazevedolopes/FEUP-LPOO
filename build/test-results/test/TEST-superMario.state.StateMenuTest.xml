@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="superMario.state.StateMenuTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-05-31T00:46:30" hostname="miguel" time="2.223">
+  <properties/>
+  <testcase name="testGetController()" classname="superMario.state.StateMenuTest" time="1.234"/>
+  <testcase name="testGetModel()" classname="superMario.state.StateMenuTest" time="0.488"/>
+  <testcase name="testGetViewer()" classname="superMario.state.StateMenuTest" time="0.501"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

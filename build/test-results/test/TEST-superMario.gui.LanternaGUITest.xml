@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="superMario.gui.LanternaGUITest" tests="8" skipped="0" failures="0" errors="0" timestamp="2021-05-31T00:46:34" hostname="miguel" time="2.246">
+  <properties/>
+  <testcase name="drawChar()" classname="superMario.gui.LanternaGUITest" time="0.378"/>
+  <testcase name="drawButton()" classname="superMario.gui.LanternaGUITest" time="0.289"/>
+  <testcase name="draw()" classname="superMario.gui.LanternaGUITest" time="0.268"/>
+  <testcase name="drawTitle()" classname="superMario.gui.LanternaGUITest" time="0.244"/>
+  <testcase name="fillBackground()" classname="superMario.gui.LanternaGUITest" time="0.256"/>
+  <testcase name="drawMapColumn()" classname="superMario.gui.LanternaGUITest" time="0.243"/>
+  <testcase name="drawSky()" classname="superMario.gui.LanternaGUITest" time="0.295"/>
+  <testcase name="drawMenuBackground()" classname="superMario.gui.LanternaGUITest" time="0.27"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
