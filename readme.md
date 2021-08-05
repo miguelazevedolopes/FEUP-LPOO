@@ -1,5 +1,7 @@
 # LPOO 2020/2021 - Super Mario
 
+A terminal based version of Super Mario. A project for the Object Oriented Programming class.
+
 ## Group G84 elements
 
 | Name                 | Number    | E-Mail                 |
