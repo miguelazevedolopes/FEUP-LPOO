@@ -58,3 +58,7 @@ Currently when you run the superMario, you'll see the Character (in this case Ma
 ![Level 3.2](docs/gameshots/level3b.png)
 
 ![Game Over](docs/gameshots/gameOver.png)
+
+## Disclaimer
+
+This repository, and every other repository (I own) named in the format FEUP-COURSENAME on GitHub correspond to the projects I developed during my time as a student at Faculty of Engineering of University of Porto.
